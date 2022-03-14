@@ -1,0 +1,1 @@
+This is the future location for all course content.
