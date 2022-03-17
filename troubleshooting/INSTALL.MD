@@ -7,4 +7,11 @@ unable to recognize "networking/bookinfo-gateway.yaml": no matches for kind "Vir
 
 Use the following to create a default profile:
 
-`istioctl install --set profile=demo -y`
+```istioctl install --set profile=demo -y```
+
+Istioctl is not found:
+
+```
+cd home/data/istio-xx.xx.x
+export PATH=$PWD/bin:$PATH
+```
