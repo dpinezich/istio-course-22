@@ -1,4 +1,4 @@
-# Observability
+# Logs
 
 ## Preparation
 

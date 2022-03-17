@@ -1,4 +1,4 @@
-# Observability
+# Visualization
 
 ## Preparation
 

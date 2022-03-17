@@ -1,4 +1,4 @@
-# Observability
+# Distributed tracing
 
 ## Preparation
 
